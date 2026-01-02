@@ -1,2 +1,2 @@
 # web-development-project
-spotify clone with the help of html and css
+spotify clone with the help of HTML and CSS.
